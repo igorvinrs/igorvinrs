@@ -5,13 +5,13 @@
 <br/>
 <br/>
 
-<p>Languages</p> 
+<p>Frontend Technologies</p> 
 
-[![My Skills](https://skillicons.dev/icons?i=react,html,css,javascript,git&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,html,css,javascript&perline=9)](https://skillicons.dev)
 
 <p>Tools</p> 
 
-[![My Skills](https://skillicons.dev/icons?i=illustrator,photoshop&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=illustrator,photoshop,git&perline=9)](https://skillicons.dev)
 
 ##
 ![](https://komarev.com/ghpvc/?username=igorvinrs&style=flat-square)
