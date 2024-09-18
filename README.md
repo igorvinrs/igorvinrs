@@ -5,9 +5,13 @@
 <br/>
 <br/>
 
-<p>Languages and Tools</p> 
+<p>Languages</p> 
 
-[![My Skills](https://skillicons.dev/icons?i=react,html,css,git&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,html,css,javascript,git&perline=9)](https://skillicons.dev)
+
+<p>Tools</p> 
+
+[![My Skills](https://skillicons.dev/icons?i=illustrator,photoshop&perline=9)](https://skillicons.dev)
 
 ##
 ![](https://komarev.com/ghpvc/?username=igorvinrs&style=flat-square)
